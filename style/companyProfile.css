@@ -1,0 +1,16 @@
+
+.companyProfile {
+    width: 1200px;
+    margin: 20px auto;
+}
+.title {
+    height: 32px;
+    padding-left: 16px;
+    font: bold 16px/32px 'simsun';
+    background: #1c4987;
+    color: #FFFFFF;
+}
+.content {
+    font: normal 14px/2rem 'simsun';
+    text-indent: 28px;
+}

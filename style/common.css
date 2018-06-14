@@ -36,6 +36,14 @@ table { border-collapse:collapse; border-spacing:0; }
     background: transparent;
     color: aliceblue;
 }
+.logo {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.logo:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
 .menu {
     width: 1200px;
     margin: 0 auto;
@@ -109,9 +117,9 @@ table { border-collapse:collapse; border-spacing:0; }
 /*页脚*/
 .footer {
     max-width: 1200px;
-    height: 60px;
+    height: 40px;
     margin: 20px auto 0;
-    line-height: 60px;
+    line-height: 40px;
     font-size: 12px;
     text-align: center;
     background: #000;
